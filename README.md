@@ -11,5 +11,5 @@ Test server that shows hostname and ip address of container.
 ➜  nginx-test git:(master) curl localhost:7777
  56e6abbe2686    172.17.0.2
    
-
+- More features will be added soon
 ```
